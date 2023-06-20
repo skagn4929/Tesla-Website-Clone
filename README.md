@@ -10,7 +10,10 @@
 **클론 코딩을 통한 HTML 과 CSS 언어의 학습**
 
 ## 2. 프로젝트 주요 내용   
-**1. 헤더섹션에 테슬라 로고와 자동차 리스트 그 외 메뉴 버튼을 만들었습니다.**
+**1. 헤더섹션에 테슬라 로고를 넣고 자동차 리스트와 그 외 메뉴 버튼을 만들었습니다.**
+
+![테슬라1](https://github.com/skagn4929/Tesla-Website-Clone/assets/134206709/d0e07a1c-aa7f-4a53-bd80-3f134feb00d6)
+
 - HTML
 ```html
 <header>
@@ -73,6 +76,9 @@ nav .btn{
 ---
 
 **2. 배경에 model 3 이미지를 넣고 본문 텍스트를 만들었습니다.**
+
+![테슬라2](https://github.com/skagn4929/Tesla-Website-Clone/assets/134206709/929b2027-9829-4425-bc52-25036ae6d220)
+
 - HTML
 ```html
 <div class="content">
@@ -105,6 +111,9 @@ body{
 ---
 
 **3. 본문 하단에 주문 및 인도 버튼을 만들었습니다.**
+
+![테슬라3](https://github.com/skagn4929/Tesla-Website-Clone/assets/134206709/2a71a206-7361-474b-9ae5-d82e27bb5c41)
+
 - HTML
 ```html
 <div class="links">
