@@ -1,5 +1,5 @@
 # Tesla-Website-Clone
-**HTML과 CSS를 사용하여 테슬라 웹사이트 클론을 만들어 보았습니다.**
+**HTML과 CSS를 사용하여 테슬라 웹사이트 클론을 만들었습니다.**
 - https://skagn4929.github.io/Tesla-Website-Clone/
 
 ![테슬라 클론 완성본](https://github.com/skagn4929/Tesla-Website-Clone/assets/134206709/11bedbb1-5b46-4a0b-9b90-5e394b9fbebb)
